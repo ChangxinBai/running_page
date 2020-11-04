@@ -234,7 +234,7 @@ const LocationStat = ({ runs, onClick }) => (
         不要停下来，不要停下奔跑的脚步.
         <br />
         <br />
-        Yesterday you said tomorrow.
+       Never give up.
       </p>
     </section>
     <hr color="red" />
